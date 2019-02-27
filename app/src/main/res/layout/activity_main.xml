@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="#2495d1"
     tools:layout_editor_absoluteY="25dp">
-
+<!---->
     <android.support.constraint.ConstraintLayout
         android:id="@+id/firstLayout"
         android:layout_width="match_parent"
