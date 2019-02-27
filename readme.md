@@ -1,10 +1,8 @@
-## Weather application
+## Redesign Finished
 
-The layout of this application is based on the use of a LinearLayout. 
+The layout of this application has been changed to constraint layout. 
 
-Redesign the same application using a constraint-layout.
-
-Read more at https://developer.android.com/training/constraint-layout
+The final result is shown below.
 
 ![Design](snapshot.png)
 
